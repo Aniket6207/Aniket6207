@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniket6207" alt="aniket6207" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/an1ket_more" target="blank"><img src="https://img.shields.io/twitter/follow/an1ket_more?logo=twitter&style=for-the-badge" alt="an1ket_more" /></a> </p>
+
 
 - 🔭 I’m currently working on **Open source projects**
 
